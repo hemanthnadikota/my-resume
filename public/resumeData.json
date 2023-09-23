@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name": "Hemanth Chandra",
+    "occupation": "Full Stack Developer",
+    "description": "Full Stack Developer with 3+ years of work experience building responsive web applications, single page applications encompassing both front-end and back-end development with DevOps proficiency. Well versed in Full Application Software Development Lifecycle.",
+    "image": "profilepic.jpg",
+    "bio": "I'm a seasoned Full Stack Developer with 3+ years of experience, specializing in building responsive web and single page applications. Proficient in both front-end and back-end development, I bring expertise in the Full Application Software Development Lifecycle and DevOps practices. My passion for technology, problem-solving skills, and commitment to excellence drive my contributions to every project.",
+    "contactmessage": "",
+    "email": "hemanthchandra969@gmail.com",
+    "phone": "9652686161",
+    "address": {
+      "street": "Madhapur",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/drive/folders/1HWONMznBViwUk_XrIl-BmE95gqwmqQbg?usp=drive_link",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/in/hemanth-chandra/",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hemanth-chandra/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/HemanthChandraNadikota",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I can best illustrate my hands-on skillset as follows:",
+    "education": [
+      {
+        "school": "Andhra University",
+        "degree": "Bachelors of Technology (Geo - Informatics)",
+        "graduated": "April 2019",
+        "description": "In my Geo-informatics program, I gained expertise in Java, C++, web development (HTML, CSS, JavaScript), and Geographic Information Systems (GIS). This education equipped me with strong programming skills, web development capabilities, and a deep understanding of spatial data analysis, making me well-rounded in IT and geospatial fields."
+      },
+      {
+        "school": "Gayatri Junior College",
+        "degree": "Board of Intermediate Education - MPC",
+        "graduated": "May 2015",
+        "description": "During my intermediate education, I immersed myself in the fields of Mathematics, Physics, and Chemistry. This curriculum provided a balanced blend of theoretical knowledge and practical applications. I honed my analytical and problem-solving skills, developed a deep understanding of fundamental scientific principles, and acquired the ability to conduct experiments and apply mathematical concepts in real-world scenarios. This well-rounded foundation has been invaluable in my academic and professional journey."
+      }
+    ],
+    "work": [
+      {
+        "company": "Tata Consultancy Services",
+        "title": "System Engineer, Team Lead",
+        "years": "April 2021 - Present",
+        "description": "Hands on experience on developing enterprise applications for about 100 real time concurrent users. Coded Client UI in different applications using React JS, JavaScript and Server side using Java, ExpressJS, NodeJS. Supervised team of 3 and led full development lifecycle for Application Upgrade. Participated in complete technical development lifecycle - requirements analysis, planning, design, coding, testing, debugging, bug fixing. Solid understanding of the API services, AJAX and REST/SOAP frameworks, Experience using REST APIs. Some libraries used in the projects include - Bootstrap, Material UI, SASS/SCSS, MomentJS, Router, TSLint. Developed secure applications with no vulnerabilities by taking care of Cross Site scripting (XSS), SQL Injections, Cross-site request forgery (CSRF), Session Management based on Fortify Reports. Coordinated with the operations team for handling server issues. Processed deployments using Jenkins, GitHub, Azure Devops, AWS CodeCommit. Utilized Atlassian Tools like JIRA, Confluence and TCS Internal tools for maintaining Agile processes. Practiced Agile methodologies - Scrum including story grooming, sprint planning, complexity analysis, stand-up calls, and sprint retrospectives. Well versed with documentation of User Guide, Low Level Design, Functional Design."
+      },      
+      {
+        "company": "Amazon",
+        "title": "Quality Specialist",
+        "years": "Aug 2020 - March 2021",
+        "description": "Worked in development of Maps Web Application with functional experience with Node JS, SQL and AWS CodeCommit. Independently analyzed and enhanced the application by solving issues in real-time providing end-to-end problem resolution."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React JS",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "85%"
+      },
+      {
+        "name": "Node JS",
+        "level": "70%"
+      },
+      {
+        "name": "AWS",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5, CSS",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Prayoga Architects",
+        "category": "Architecture Portfolio website",
+        "image": "prayogaarchitects.png",
+        "url": "https://www.prayogaarchitects.in/"
+      },
+      {
+        "title": "Space Box Design Studio",
+        "category": "Architecture Portfolio website",
+        "image": "spaceboxdesignstudio.png",
+        "url": "https://spaceboxdesignstudio.in/"
+      },
+      {
+        "title": "Resume Website",
+        "category": "My personal resume website",
+        "image": "resume.png",
+        "url": "https://www.github.io/hemanthnadikota/my-resume"
+      }
+    ]
+  },
+  "Achievements": {
+    "Achievements": [
+      {
+        "text": "Tagged as Hi- Talent resource in TCS. Acquired high performance bands.",
+        "user": "TCS"
+      },
+      {
+        "text": "Awarded with 100% Customer Satisfaction for 2022 Q3 for the team led by me.",
+        "user": "TCS"
+      },
+      {
+        "text": "● Developed Society Management Application end-to-end full-stack and presented in ESRI UC, Delhi, 2018 as top 5 finalists",
+        "user": "ESRI"
+      }
+    ]
+  }
+}
